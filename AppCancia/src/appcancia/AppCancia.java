@@ -15,6 +15,8 @@ public class AppCancia {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        ahorrosGUI interfazGraficaAhorros = new ahorrosGUI();
+        interfazGraficaAhorros.setVisible(true);
         
     }
     
